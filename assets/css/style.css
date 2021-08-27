@@ -138,7 +138,7 @@
 } */
 
 .photos-gallery:nth-child(2) {
-  background: url(https://github.com/dsgmohol/iskcontestproject/blob/main/assets/images/gallery/005.jpg);
+  background: url(https://raw.githubusercontent.com/dsgmohol/iskcontestproject/main/assets/images/gallery/005.jpg);
   background-size: cover;
   background-position: center;
 }
